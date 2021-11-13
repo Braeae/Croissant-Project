@@ -1,0 +1,42 @@
+h1 {
+  text-decoration: none;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+p {
+  text-decoration: none;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 300;
+  font-size: 16px;
+  padding: 0 16px;
+  margin: 0 12px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  display: inline;
+  margin: 12px;
+}
+
+a:visited {
+  color: darkmagenta;
+}
+
+body {
+  background-color: pink;
+}
+
+.img-fluid {
+  border-radius: 10px;
+  display: block;
+  max-width: 800px;
+}
+
+.backhp {
+  padding: 16px;
+  margin: 20px auto;
+  text-align: center;
+  display: block;
+}
