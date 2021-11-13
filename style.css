@@ -15,7 +15,7 @@ p {
   font-weight: 300;
   font-size: 16px;
   padding: 0 16px;
-  margin: 0 12px;
+  margin: 14px auto;
 }
 
 a {
@@ -29,10 +29,11 @@ a:visited {
   color: darkmagenta;
 }
 
-.img-fluid {
-  border-radius: 10px;
+img {
   display: block;
-  max-width: 800px;
+  max-width: 100%;
+  border-radius: 10px;
+  margin: 30px auto;
 }
 
 .backhp {
